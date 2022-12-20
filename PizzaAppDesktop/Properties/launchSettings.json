@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PizzaAppDesktop": {
+      "commandName": "Project",
+      "commandLineArgs": "HolaMundo"
+    }
+  }
+}
